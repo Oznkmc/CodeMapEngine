@@ -1,0 +1,5 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+tree-sitter>=0.23,<0.24
+tree-sitter-python>=0.23,<0.24
+networkx>=3.3,<4.0
